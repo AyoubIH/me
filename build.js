@@ -22,7 +22,7 @@ const data = {
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~ayoubih'),
   github: chalk.gray('https://github.com/') + chalk.green('AyoubIH'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('ayoub-idrissi-hassani'),
-  npx: chalk.red('npx') + ' ' + chalk.white('ayoubih'),
+  npx: chalk.red('npx') + ' ' + chalk.white('aidrissihassani'),
   labelWork: chalk.white.bold('    Work:'),
 //  labelTwitter: chalk.white.bold(' Twitter:'),
   labelnpm: chalk.white.bold('     npm:'),
